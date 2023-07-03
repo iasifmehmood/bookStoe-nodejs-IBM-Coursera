@@ -1,4 +1,9 @@
-General users:
+#Project_Problem
+
+In this module, you will complete two related projects: a practice project and a final project. The practice project walks you through code that performs CRUD operations for given user details on an Express server using session and JWT authentication and then tests the code using Postman. For the final project, you assume the role of a back-end developer working on a server-side application that stores, retrieves, and manages book ratings and reviews. You will submit screenshots of your application, and then your peers will review the project based on a rubric provided. You will also be expected to review two of your peer’s projects.
+
+#General users:
+
 Task 1: Get the book list available in the shop.- 2 Points
 
 Task 2: Get the books based on ISBN.- 2 Points
@@ -33,19 +38,5 @@ Task 14: Submission of Project GitHub Link - 2 Points
 
 #Endpoints: https://elements.getpostman.com/redirect?entityId=25924836-d305261c-7745-4b3c-9a38-e7e2786d6682&entityType=collection
 
-#Postman screenshots picture 4= task 1 and so on...
-![Screenshot (5)](https://github.com/iasifmehmood/bookStoe-nodejs-IBM-Coursera/assets/113448393/0a86ace2-46bf-4a0d-9256-574ce3938d06)
-![Uploading Screenshot (4).png…]()
-![Uploading Screenshot (17).png…]()
-![Uploading Screenshot (16).png…]()
-![Uploading Screenshot (15).png…]()
-![Uploading Screenshot (14).png…]()
-![Uploading Screenshot (13).png…]()
-![Uploading Screenshot (12).png…]()
-![Uploading Screenshot (10).png…]()
-![Uploading Screenshot (9).png…]()
-![Uploading Screenshot (8).png…]()
-![Uploading Screenshot (11).png…]()
 
-![Uploading Screenshot (7).png…]()
 ![Uploading Screenshot (6).png…]()
