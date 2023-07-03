@@ -38,5 +38,4 @@ Task 14: Submission of Project GitHub Link - 2 Points
 
 #Endpoints: https://elements.getpostman.com/redirect?entityId=25924836-d305261c-7745-4b3c-9a38-e7e2786d6682&entityType=collection
 
-
-![Uploading Screenshot (6).png…]()
+#https://coursera.org/share/ea871a83e137626b277bd2561e3b9684
